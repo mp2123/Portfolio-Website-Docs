@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+*.pdf
+*.doc
+*.docx
+*.db
+*.sqlite
+*.sqlite3
+logs/
+screenshots/private/
+exports/
