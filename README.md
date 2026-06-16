@@ -37,6 +37,20 @@ It does not position Michael as a current professional quant trader, quant devel
 - CV: https://www.michaelspanico.com/cv
 - Projects: https://www.michaelspanico.com/projects
 
+## Related Public Proof Shells
+
+This repository is the public documentation shell for the portfolio itself. It should orient recruiters to the live site and then point outward to the reviewed project-specific docs shells. Private implementation repos, resume archives, environment variables, analytics logs, job-search records, and runtime state are intentionally not linked publicly.
+
+- [Live portfolio](https://www.michaelspanico.com/)
+- [Michael Panico GitHub profile](https://github.com/mp2123)
+- [Gemini/Codex Workflow Docs](https://github.com/mp2123/Gemini_Codex_Project_1_Docs)
+- [Institutional Market Data Engine Docs](https://github.com/mp2123/Institutional-Market-Data-Engine-Docs)
+- [Market & Quant Analytics Lab Docs](https://github.com/mp2123/Market-Quant-Analytics-Lab-Docs)
+- [Market Data Dashboard Docs](https://github.com/mp2123/Market-Data-Dashboard-Docs)
+- [QuantStrat ML Docs](https://github.com/mp2123/QuantStrat-ML-Docs)
+- [Personal Finance Automation Docs](https://github.com/mp2123/Personal-Finance-Automation-Docs)
+- [Chicago Real Estate Docs](https://github.com/mp2123/Chicago-Real-Estate-Docs)
+
 ## Assistant Boundary
 
 The portfolio assistant should:
