@@ -39,7 +39,7 @@ It does not position Michael as a current professional quant trader, quant devel
 
 ## Related Public Proof Shells
 
-This repository is the public documentation shell for the portfolio itself. It should orient hiring teams to the live site and then point outward to the reviewed project-specific docs shells. Private implementation repos, resume archives, environment variables, analytics logs, job-search records, and runtime state are intentionally not linked publicly.
+This repository is the public documentation shell for the portfolio itself. It orients visitors to the live site and then points outward to the reviewed project-specific docs shells. Private implementation repos, resume archives, environment variables, analytics logs, job-search records, and runtime state are intentionally not linked publicly.
 
 - [Live portfolio](https://www.michaelspanico.com/)
 - [Michael Panico GitHub profile](https://github.com/mp2123)
