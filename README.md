@@ -6,7 +6,7 @@ https://www.michaelspanico.com/
 
 The private implementation repository remains private. This docs shell explains the public portfolio strategy, validation approach, assistant behavior, and privacy boundaries without exposing source history, resume archives, environment variables, generated logs, or private career-planning material.
 
-## Recruiter Snapshot
+## Professional Snapshot
 
 The portfolio supports roles in:
 
@@ -25,7 +25,7 @@ It does not position Michael as a current professional quant trader, quant devel
 ## What The Website Demonstrates
 
 - A clear public candidate identity for BI, data analytics, financial-data, market-data, and automation roles.
-- A recruiter-readable project library with short project summaries and proof surfaces.
+- A clear professional project library with short project summaries and proof surfaces.
 - Downloadable public resume assets.
 - A guided assistant that answers role-fit and project questions from bounded portfolio context.
 - Conservative language around AI-assisted workflows, market-data projects, and quant-adjacent interests.
@@ -39,7 +39,7 @@ It does not position Michael as a current professional quant trader, quant devel
 
 ## Related Public Proof Shells
 
-This repository is the public documentation shell for the portfolio itself. It should orient recruiters to the live site and then point outward to the reviewed project-specific docs shells. Private implementation repos, resume archives, environment variables, analytics logs, job-search records, and runtime state are intentionally not linked publicly.
+This repository is the public documentation shell for the portfolio itself. It should orient hiring teams to the live site and then point outward to the reviewed project-specific docs shells. Private implementation repos, resume archives, environment variables, analytics logs, job-search records, and runtime state are intentionally not linked publicly.
 
 - [Live portfolio](https://www.michaelspanico.com/)
 - [Michael Panico GitHub profile](https://github.com/mp2123)
@@ -68,7 +68,7 @@ This docs shell may include:
 - live site links;
 - public-safe architecture summaries;
 - validation notes;
-- recruiter-facing explanation;
+- public-facing explanation;
 - screenshots only after privacy review.
 
 This docs shell must not include:
