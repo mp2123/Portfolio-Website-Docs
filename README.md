@@ -8,6 +8,8 @@ The private implementation repository remains private. This docs shell explains 
 
 ## Professional Snapshot
 
+Michael is a Business Analytics student at Oregon State University, expected June 2027, with a focus on market research and consumer analytics. He is based in the Greater Chicago Area.
+
 The portfolio supports roles in:
 
 - Business Analytics
